@@ -4,7 +4,7 @@ This [Drawbot](https://www.drawbot.com) script will take two PDFs and overlay th
 
 Each PDF is converted to a specified color, and then layered with a multiply effect. The result is saved to a new PDF file. 
 
-![Example](readmeImg/example-image-for-readme.png)
+![Example](example-image-for-readme.png)
 
 
 ### Notes
